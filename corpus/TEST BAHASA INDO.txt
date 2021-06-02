@@ -1,0 +1,6 @@
+Saya adalah mahasiswa darmajaya. 
+Saat ini saya sedang belajar menulis karya ilmiah, metode tfidf. 
+Tfidf adalah menghitung frekuensi kemunculan istilah pada dokumen. 
+Langkah awal adalah menghitung tf, kemudian menghitung df dan idf. 
+Langkah terakhir adalah menghitung tfidf. 
+Mari kita belajar.
